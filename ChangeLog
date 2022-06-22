@@ -1,3 +1,9 @@
+-2022/6/22:
+[delta] Upgrade marvell-arm64 sai library
+Modified: Add SFP+ LEDs support
+
+*de-b30ge6x1/de-b54ge6x2 - mrvllibsai_arm64_1.8.1-4-dni.deb
+
 -2022/6/17:
 [delta] Integrate delta platforms into a MRVL SAI library
 Modified:
