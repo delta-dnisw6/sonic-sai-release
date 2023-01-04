@@ -1,10 +1,18 @@
--2022/6/22:
+-2023/01/05:
+[delta] Add MRVL Prestera-SAI-1.1.1-R2 support
+Modified:
+1. Upgrade Prestera-SAI-1.1-1 from R0 to R2
+2. Add de-b54ge6x2 PoE LED control for SAI R2
+
+*de-b30ge6x1/de-b54ge6x2 - mrvllibsai_1.8.1-1-dni_arm64.deb
+
+-2022/06/22:
 [delta] Upgrade marvell-arm64 sai library
 Modified: Add SFP+ LEDs support
 
 *de-b30ge6x1/de-b54ge6x2 - mrvllibsai_arm64_1.8.1-4-dni.deb
 
--2022/6/17:
+-2022/06/17:
 [delta] Integrate delta platforms into a MRVL SAI library
 Modified:
 1. Integrate de-b30ge6x1/de-b54ge6x2 platform into a MRVL SAI library
@@ -12,27 +20,27 @@ Modified:
 
 *de-b30ge6x1/de-b54ge6x2 - mrvllibsai_arm64_1.8.1-3-dni.deb
 
--2022/6/9:
+-2022/06/09:
 [delta] Update marvell-arm64 sai library
 Modified: Add Port LEDs function
 
 *de-b30ge6x1 - mrvllibsai_arm64_1.8.1-2-dni.deb
 *de-b54ge6x2 - mrvllibsai_arm64_1.8.1-2-dni.deb
 
--2022/5/23:
+-2022/05/23:
 [delta] Upgrade marvell-arm64 sai library
 Modified: Fix the 2.5G PHY ports issue
 
 *de-b30ge6x1 - mrvllibsai_arm64_1.8.1-2-dni.deb
 *de-b54ge6x2 - mrvllibsai_arm64_1.8.1-2-dni.deb
 
--2022/5/6:
+-2022/05/06:
 [delta] Add marvell-arm64 sai library for de-b30ge6x1 platform
 Known issue: The 2.5G PHY ports are not ready
 
 *de-b30ge6x1 - mrvllibsai_arm64_1.8.1-1-dni.deb
 
--2022/4/21:
+-2022/04/21:
 [delta] Add marvell-arm64 sai library for de-b54ge6x2 platform
 Known issue: The 2.5G PHY ports are not ready
 
